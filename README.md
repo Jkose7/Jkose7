@@ -1,4 +1,4 @@
-### Hi i am Jose Muñoz 👋
+### Hi I'm Jose Muñoz 👋
 
 <!--
 **Jkose7/Jkose7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
